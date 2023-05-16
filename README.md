@@ -1,3 +1,5 @@
+Link Video hoc: https://www.youtube.com/watch?v=Nl3y1jYPbr4
+
 Setup project:
  - npm install express mongoose cors body-parser morgan dotenv
     "dependencies": {
